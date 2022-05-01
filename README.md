@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi 👋
 
+## welcome to my github page
+
+> Now : Likelion Frontend School 2nd student<br>
+> Stacks : HTML/Css, Sass, Tailwindcss, JavaScript, Java
+
+✨ I like fresh ideas.<br>
+✨ I'm interested in React.
 <!--
 **rapidmon/rapidmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
