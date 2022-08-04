@@ -3,7 +3,7 @@
 ## welcome to my github page
 
 > Now : Likelion Frontend School 2nd student<br>
-> Stacks : HTML/Css, Sass, Tailwindcss, JavaScript, Java
+> Stacks : HTML/Css, Sass, Tailwindcss, JavaScript, React
 
 ✨ I like fresh ideas.<br>
 ✨ I'm interested in React.
