@@ -3,7 +3,7 @@
 ## welcome to my github page
 
 > Now : Donga Media Group Newsroom Developer<br>
-> Stacks : HTML/Css, Sass, JavaScript, React, Vibe Coding
+> Stacks : HTML/Css, JavaScript, React, TypeScript, Interactive
 
 <!--
 **rapidmon/rapidmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
